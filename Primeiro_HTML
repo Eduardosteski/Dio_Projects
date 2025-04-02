@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>Start HTML</title>
+    </head>
+<body>
+    <h1> Meu start em HTML</h1>
+    <HR></HR>
+<ol>
+    <li><a href="#aprender"></a>Porque aprender HTML</li>
+    <li><a href="#desafios"></a>Meus desafios</li>
+    <li><a href="#pratica"></a>Praticando</li>
+    <li><a href="#fontes"></a>Fontes</li>
+</ol>
+<h2><I>PORQUE APRENDER HTML</I></h2>
+<P>Como tudo tem um inicio, ou melhor dizendo um reinicio.Eu trabalhei com TI por mais de 20 anos, porém na área de suporte a usuário e manutenção em hardware.</P>
+<p>Nunca pensei em atuar em outra área, como por exemplo programação.Mas devido algumas questoes eu tive que interromper meu trabalho com TI.</p>
+<p>Fui trabalhar com algo totalmente diferente, até que então eu conheci recentemente a plataforma  DIO. </p>
+<p>Percebi que era possível reiniciar em TI, mas através de outra oportunidade, a <mark>PROGRAMAÇÃO</mark>.</p>
+<p>Fato agora é que estou estudando <abbr title="HyperText Markup Language"> HTML</abbr> para dar sequencia ao curso. Já recebi muitos conteúdos que sei que irei levar para minha carreira.</p>
+<p><i>Bons estudos para todos!</i></p>
+<br>
+<h2><i>MEUS DESAFIOS</i></h2>
+<p>Eu tenho certeza que não será fácil, mas estou disposto a aprender e me dedicar ao máximo.</p>
+<p>São muitos desafios pela frente, mas estou disposto a encarar todos eles.</p>
+<p>Minha jornada está apenas começando nesse novo mundo e sei que irei vencer</p>
+<br>
+<h2><i>PRATICANDO</i></h2>
+<p>Essa é minha primeira prática em HTML, então já estou fazendo o que é necessário para aprender.</p>
+<p>Algumas pessoas costumam dizer "A pratica leva a perfeição". Mas também acredito que se você não estiver disposto nada acontece.</p>
+<p>Se eu tiver bons instrutores "e acho que tem" aqui na DIO, não irei parar.Pois não existe limite para quem quer alcançar o futuro.</p>
+<br>
+<h2><I>FONTES</I></h2>
+<p>Aqui você pode encontar agumas fontes de conhecimento para iniciar em HTML</p>
+<br>
+<a href="https://www.dio.me"> Conheça a DIO,a sua fonte de conhecimento</a>
+<br>
+<a href="https://https://makecreativecode.com/historia-do-html/">História do HTML</a>
+<br>
+
+
+
+
+</body>
+</html>
